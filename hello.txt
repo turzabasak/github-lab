@@ -1,6 +1,11 @@
 hello, welcome to github-lab
+<<<<<<< HEAD
 did the first steps 
 currently doing the next steps
 
 
 part 6 which is optional but still doing
+=======
+
+changing stuffs
+>>>>>>> eea9785b44a86de11e5b14dfdacf32eb36553d8a
